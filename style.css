@@ -1,0 +1,15 @@
+label::after {
+    content: '*';
+    color: red;
+    font-weight: bolder;
+    font-size: 20px;
+}
+form > input {
+    width: 100px;
+}
+input[type=reset] {
+    width: fit-content;
+}
+fieldset {
+    display: inline-block
+}
