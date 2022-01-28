@@ -28,4 +28,5 @@ function loopAdd() {
         tData += '<td>'+td+'</td>'
     }
     return '<tr>'+tData+'</tr>'
+   
 }
